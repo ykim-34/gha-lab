@@ -1,2 +1,4 @@
-print("Hello world!")
-print("New commit")
+def helloPython():
+
+    print("Hello world!")
+    print("New commit")
