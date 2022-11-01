@@ -1,2 +1,2 @@
 print("Hello world!")
-print("New commit")
+print("New commit"
